@@ -2,7 +2,6 @@
 
 
 
-[![Image Alt Text](image-url.jpg)](hyperlink-url)  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-br%C3%A6ck-christensen-3a72942b2/)
 <!--
 **Braecksen/Braecksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
